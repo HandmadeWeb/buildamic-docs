@@ -5,4 +5,4 @@ title: Getting Started
 
 Web pages are made up of **Sections**, **Rows** (which may have **Columns**) and **Modules**.
 
-![](docs/.vuepress/dist/buildamic-page-builder-01.png)
+![](docs/.vuepress/public/assets/buildamic-page-builder-01.png)
