@@ -10,5 +10,14 @@ module.exports = {
     docsDir: 'docs',
     repo: 'HandmadeWeb/buildamic-docs',
     logo: 'https://www.handmadeweb.com.au/wp-content/uploads/2015/04/Handmade-Web-and-Design-Logo-Black-200px.png',
+    sidebar: [
+      '/',
+    ],
+    nav: [
+      {
+        text: 'Admin',
+        link: '/admin/#/',
+      }
+    ]
   },
 }
