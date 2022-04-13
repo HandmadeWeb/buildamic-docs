@@ -7,6 +7,7 @@ module.exports = {
   // theme and its config
   theme: '@vuepress/theme-default',
   themeConfig: {
+    docsDir: 'docs',
     logo: 'https://www.handmadeweb.com.au/wp-content/uploads/2015/04/Handmade-Web-and-Design-Logo-Black-200px.png',
   },
 }
