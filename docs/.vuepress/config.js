@@ -1,7 +1,7 @@
 module.exports = {
   // site config
   lang: 'en-US',
-  title: 'Hello, VuePress!',
+  title: 'Buildamic Documentation',
   description: 'This is my first VuePress site',
 
   // theme and its config
@@ -10,9 +10,6 @@ module.exports = {
     docsDir: 'docs',
     repo: 'HandmadeWeb/buildamic-docs',
     logo: 'https://www.handmadeweb.com.au/wp-content/uploads/2015/04/Handmade-Web-and-Design-Logo-Black-200px.png',
-    sidebar: [
-      '/',
-    ],
     nav: [
       {
         text: 'Admin',
