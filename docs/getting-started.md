@@ -1,6 +1,8 @@
 ---
 title: Getting Started
 ---
-Basic instructions on the UI
+## Page Builder
+
+Lorem ipsum
 
 ![](docs/.vuepress/dist/buildamic-page-builder-01.png)
