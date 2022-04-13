@@ -10,7 +10,7 @@ collections:
     files:
       - label: "Homepage"
         name: "homepage"
-        file: "index.md"
+        file: ".vuepress/index.md"
         delete: false
         fields:
           - { label: Body, name: body, widget: markdown }
