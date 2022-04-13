@@ -2,7 +2,7 @@ backend:
   name: github
   repo: HandmadeWeb/buildamic-docs
 media_folder: "docs/.vuepress/public/images"
-public_folder: "docs/.vuepress/public/images"
+public_folder: "/images"
 publish_mode: editorial_workflow
 collections:
   - name: "doc" # Used in routes, e.g., /admin/collections/blog
