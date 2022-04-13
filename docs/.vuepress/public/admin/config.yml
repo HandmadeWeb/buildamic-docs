@@ -1,5 +1,5 @@
 backend:
-  name: git-gateway
+  name: github
   repo: HandmadeWeb/buildamic-docs
 media_folder: ".vuepress/public/media"
 public_folder: "/public"
