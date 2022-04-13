@@ -1,7 +1,7 @@
 backend:
   name: github
   repo: HandmadeWeb/buildamic-docs
-media_folder: ".vuepress/public/media"
+media_folder: "docs/.vuepress/public/media"
 public_folder: "/public"
 publish_mode: editorial_workflow
 collections:
@@ -10,7 +10,7 @@ collections:
     files:
       - label: "Homepage"
         name: "homepage"
-        file: ".vuepress/index.md"
+        file: "docs/.vuepress/index.md"
         delete: false
         fields:
           - { label: Body, name: body, widget: markdown }
